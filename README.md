@@ -11,7 +11,7 @@ This repository contains a PyTorch-based implementation for training and evaluat
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Visualization](#visualization)
-- [License](#license)
+
 
 ## Project Overview
 
